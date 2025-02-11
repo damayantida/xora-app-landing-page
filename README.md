@@ -21,9 +21,3 @@ Xora is a **sleek and interactive** SaaS landing page with a **modern dark theme
 
 The project is live at: https://xora-app-landing-page.netlify.app/
 
-## 🔮 Future Improvements
-
-- 📝 Adding a CMS for dynamic content management.
-- 🎭 Implementing additional interactive elements.
-- ♿ Enhancing accessibility features.
-
